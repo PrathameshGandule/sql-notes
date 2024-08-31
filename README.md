@@ -1,4 +1,4 @@
-<h1><a name="return-to-toc"><div style="color:darkorange;">SQL</div></a></h1>
+<h1><a name="return-to-toc"><div style="color:darkorange;">SQL NOTES</div></a></h1>
 
 - sql statements are not case sensitive
 - so they are same as `select` and `SELECT`
