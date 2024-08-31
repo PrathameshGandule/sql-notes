@@ -138,6 +138,7 @@ insert into table_name values
 ```
 - use above if want to insert into every column
 - beware that every value should be in order
+
 **[RETURN TO TOC](#return-to-toc)**
 
 <hr style="border-width : 3px; background-color : magenta"></hr>
@@ -312,6 +313,7 @@ FROM table_name
 WHERE column_name BETWEEN value1 AND value2;
 ```	
 - `ORDER BY` , `AND`, `OR` , `IN` , `NOT` can be used with it
+
 **[RETURN TO TOC](#return-to-toc)**
 
 <hr style="border-width : 3px; background-color : magenta"></hr>
